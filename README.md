@@ -12,7 +12,7 @@
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: white;
+            background-color: #fff;
         }
         .container {
             width: 100%;
